@@ -1,0 +1,23 @@
+{
+  "name": "chapter8",
+  "version": "1.0.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsrck/Palindrome-Hartl.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Michael Hartl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsrck/Palindrome-Hartl/issues"
+  },
+  "homepage": "https://github.com/lsrck/Palindrome-Hartl#readme"
+}
